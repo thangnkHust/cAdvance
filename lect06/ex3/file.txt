@@ -1,0 +1,9 @@
+[station]
+S1 = ha noi
+S2 = sai gon
+S3 = nuoc ngam
+S4 = giap bat
+S5 = long bien
+[line]
+M1 = S1 S4 S2 S5
+M2 = S3 S1 S4 S2
